@@ -1,0 +1,36 @@
+#+TITLE: Example Article and Presentation Setup
+#+AUTHOR: DG
+#+OPTIONS: tags:nil
+#+EXCLUDE_TAGS: presentation
+#+LATEX_CLASS: article
+
+* Introduction :manuscript:
+
+The Latex Class and options could go on a separate file called manuscript.setup, but this is not necessary.
+Try exporting this file and the presentation.org file and see what happens.
+
+* Materials and Methods :manuscript:
+
+Pellentesque dapibus suscipit ligula.  Donec posuere augue in quam.  Etiam vel tortor sodales tellus ultricies commodo.  Suspendisse potenti.  Aenean in sem ac leo mollis blandit.  Donec neque quam, dignissim in, mollis nec, sagittis eu, wisi.  Phasellus lacus.  Etiam laoreet quam sed arcu.  Phasellus at dui in ligula mollis ultricies.  Integer placerat tristique nisl.  Praesent augue.  Fusce commodo.  Vestibulum convallis, lorem a tempus semper, dui dui euismod elit, vitae placerat urna tortor vitae lacus.  Nullam libero mauris, consequat quis, varius et, dictum id, arcu.  Mauris mollis tincidunt felis.  Aliquam feugiat tellus ut neque.  Nulla facilisis, risus a rhoncus fermentum, tellus tellus lacinia purus, et dictum nunc justo sit amet elit.
+
+* How did we setup the Experiment? :presentation:
+
+- We thought a lot about it
+- We gathered all materials
+- We collected the data with love and care
+
+* Heading good for both manuscript and presentation needs no TAG
+
+A summary of results is seen in the table below:
+
+| A | B |
+|---+---|
+| 1 | 2 |
+| 3 | 4 |
+| 5 | 6 |
+
+* Acknowledgements
+
+We thank all those that helped us.
+
+* Bibliography :manuscript:

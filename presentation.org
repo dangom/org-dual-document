@@ -1,0 +1,6 @@
+#+TITLE: Presentation
+#+STARTUP: beamer
+#+LATEX_CLASS: beamer
+#+EXCLUDE_TAGS: manuscript
+
+#+INCLUDE: research.org :lines "6-"
